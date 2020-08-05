@@ -1,0 +1,145 @@
+body
+{
+	background-color: #FFFF;
+	margin: 0px auto;
+	font-family: Tahoma;
+	font-size: 16px;
+}
+
+header
+{
+	background-color: #212529;
+	text-align: center;
+	line-height: 1.4;
+	padding: 10px;
+	color: white;
+	}
+
+li
+{
+	float: right;
+	
+}
+
+li a 
+{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover 
+{
+    background-color: #111;
+}
+
+img:hover {
+  opacity: 0.5;
+}
+
+.aboutme
+{
+	text-align: center;
+	line-height: 1.5;
+	padding: 20px;
+	text-decoration-line: 15px;
+}
+
+.backgrnd
+{
+	background-image: url("Documents/disc.png");
+	background-size: 1900px;
+}
+
+.checkout
+{
+	text-align: center;
+	align-items: center;
+}
+
+.contact
+{
+	color: white;
+	background-image: url("Documents/triumph.png");
+	background-size: 1600px;
+}
+
+.gtr
+{
+	background-image: url("Documents/gtr.jpg");
+	background-size: 1600px;
+	color: white;
+}
+
+.merchbody
+{
+	background-image: linear-gradient(black, white);
+}
+
+.merchlist
+{
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;	
+}
+
+.nava
+{
+	color: white;
+	
+}
+.navb
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #212529;
+
+}
+
+.iframe
+{
+	text-align: center;
+	color: white;
+}
+
+.index
+{
+	background-color: #212529;
+
+}
+
+.title
+{
+	size: small;
+
+}
+
+.products
+{
+	border-color: white;
+}
+
+.t-shirts
+{
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+#textfx
+{
+	margin-bottom: 10px;
+}
+footer
+{
+	background-color: #212529;
+	text-align: center;
+	line-height: 1.5;
+	padding: 1px;
+	color: white;
+	margin: 0px auto;
+	
+}
